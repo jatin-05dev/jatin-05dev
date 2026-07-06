@@ -1,63 +1,40 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Jatin</h1>
 
-# 👋 Hi, I'm Jatin
+<h3 align="center">
+💻 Full Stack Developer | Python • Django • Java • React.js
+</h3>
 
-### 🚀 Django Full Stack Developer | Python Developer | React Learner
-
-Building scalable web applications with clean code and modern technologies.
-
-<p>
-<a href="https://www.linkedin.com/in/jatindev2">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:jatindev214@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/logical_jatt/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+<p align="center">
+Passionate about building modern web applications, solving programming problems, and continuously learning new technologies.
 </p>
-
-</div>
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-💻 Passionate Django Full Stack Developer
-
-🚀 I enjoy building real-world web applications using Python and Django.
-
-📚 Currently improving my React.js and DSA skills.
-
-🎯 My goal is to become a skilled Full Stack Developer and contribute to impactful software projects.
+- 🔭 Currently working on Full Stack Development
+- 🌱 Learning React.js & Django REST Framework
+- 💡 Strong interest in Backend Development
+- 📚 Practicing Data Structures & Algorithms
+- ⚡ I enjoy building real-world projects and improving my coding skills.
 
 ---
 
-# 🛠 Tech Stack
+## 🚀 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
 </p>
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
 <img src="https://skillicons.dev/icons?i=django,react"/>
 </p>
 
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-</p>
-
-### 🧰 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
@@ -65,7 +42,20 @@ Building scalable web applications with clean code and modern technologies.
 
 ---
 
-# 📚 Currently Learning
+## 📂 Projects
+
+- 🎬 Netflix Clone
+- 👨‍💼 Employee Management System
+- 🌦️ Weather App
+- ✅ To-Do List
+- 🐍 Snake Game
+- ❌ Tic Tac Toe
+- 💻 JavaScript Mini Projects
+- 🌐 Responsive Websites using HTML & CSS
+
+---
+
+## 🌱 Currently Learning
 
 - React.js
 - Django REST Framework
@@ -75,33 +65,7 @@ Building scalable web applications with clean code and modern technologies.
 
 ---
 
-# 🚀 Featured Projects
-
-🛒 Django E-Commerce Website
-
-📷 Image Upload & Gallery System
-
-📝 Blog Website
-
-👨‍🎓 Student Management System
-
-🌦️ Weather App
-
-📚 Library Management System
-
----
-
-# 🎯 Interests
-
-- Backend Development
-- Full Stack Development
-- REST APIs
-- UI Design with Figma
-- Problem Solving
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 **Email:** **jatindev214@gmail.com**
 
@@ -114,7 +78,5 @@ Building scalable web applications with clean code and modern technologies.
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
-
-*"Code. Learn. Build. Repeat."* 🚀
 
 </div>
