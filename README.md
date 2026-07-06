@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer
 
-Building modern and responsive web applications using **Python, Django, React, JavaScript, HTML, CSS, and SQL.**
+Building modern, responsive, and scalable web applications with Python, Django, React, JavaScript, HTML, CSS, and SQL.
 
 <p>
   <a href="https://www.linkedin.com/in/jatindev2">
@@ -25,10 +25,10 @@ Building modern and responsive web applications using **Python, Django, React, J
 # 👨‍💻 About Me
 
 - 💻 Passionate Full Stack Web Developer
-- 🚀 Building real-world web applications with Django & React
-- 🌱 Exploring modern web technologies
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Focused on writing clean, scalable, and maintainable code
+- 🚀 Building responsive and scalable web applications
+- 🧩 Strong understanding of frontend and backend development
+- 📚 Passionate about problem solving and writing clean code
+- 🎯 Always improving my development skills by building real-world projects
 
 ---
 
@@ -60,9 +60,22 @@ Building modern and responsive web applications using **Python, Django, React, J
 
 ---
 
+# 🎯 Core Competencies
+
+- Full Stack Web Development
+- Backend Development with Django
+- Frontend Development with React.js
+- REST API Development
+- Database Management
+- Data Structures & Algorithms
+- Version Control (Git & GitHub)
+- UI/UX Design using Figma
+
+---
+
 # 🚀 Featured Projects
 
-### 🌐 Web Development
+### 🌐 Web Applications
 
 - 🎬 Netflix Clone
 - 👨‍💼 Employee Management System
@@ -75,43 +88,30 @@ Building modern and responsive web applications using **Python, Django, React, J
 - ❌ Tic Tac Toe
 - ⚡ JavaScript Mini Projects
 
-### 🎨 Frontend
+### 🎨 Frontend Projects
 
 - Responsive Landing Pages
 - Modern UI Designs
 
 ---
 
-# 📚 Currently Learning
-
-- Django REST Framework
-- React.js
-- REST APIs
-- Deployment
-- Data Structures & Algorithms
-
----
-
 # 📫 Connect With Me
 
-📧 **Email**
-
+📧 **Email**  
 **jatindev214@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/jatindev2
 
-🧠 **LeetCode**
-
+🧠 **LeetCode**  
 https://leetcode.com/u/logical_jatt/
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 🚀 Let's Build Something Amazing Together!
 
-**Code • Learn • Build • Improve • Repeat 🚀**
+⭐ Thanks for visiting my profile.
 
 </div>
