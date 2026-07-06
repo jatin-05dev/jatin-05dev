@@ -1,14 +1,22 @@
 <div align="center">
 
-# Hi 👋 I'm Jatin
+# 👋 Hi, I'm Jatin
 
 ### Full Stack Web Developer
 
-Building responsive and user-friendly web applications with Python, Django, React, JavaScript, HTML, CSS, and SQL.
+Building modern and responsive web applications using **Python, Django, React, JavaScript, HTML, CSS, and SQL.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jatindev2)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/logical_jatt/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:jatindev214@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/jatindev2">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jatindev214@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/logical_jatt/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
 </div>
 
@@ -16,60 +24,65 @@ Building responsive and user-friendly web applications with Python, Django, Reac
 
 # 👨‍💻 About Me
 
-- 💻 Passionate about Full Stack Web Development
-- 🚀 Building real-world projects with Django & React
-- 🌱 Currently learning Django REST Framework and improving React.js
+- 💻 Passionate Full Stack Web Developer
+- 🚀 Building real-world web applications with Django & React
+- 🌱 Exploring modern web technologies
 - 📚 Practicing Data Structures & Algorithms
-- 🎯 Always learning new technologies and improving my development skills
+- 🎯 Focused on writing clean, scalable, and maintainable code
 
 ---
 
 # 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+### 💻 Languages
 
-### Frameworks & Libraries
-- Django
-- React.js
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql"/>
+</p>
 
-### Databases
-- MySQL
-- SQLite
+### ⚙️ Frameworks & Libraries
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
+<p>
+<img src="https://skillicons.dev/icons?i=django,react"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
+</p>
 
 ---
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 🌐 Web Projects
+### 🌐 Web Development
+
 - 🎬 Netflix Clone
 - 👨‍💼 Employee Management System
 - 🌦️ Weather Application
 - ✅ To-Do List
 
 ### 🎮 JavaScript Projects
+
 - 🐍 Snake Game
 - ❌ Tic Tac Toe
-- 🎯 JavaScript Mini Projects
+- ⚡ JavaScript Mini Projects
 
-### 📱 Frontend
+### 🎨 Frontend
+
 - Responsive Landing Pages
 - Modern UI Designs
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
 
 - Django REST Framework
 - React.js
@@ -81,21 +94,24 @@ Building responsive and user-friendly web applications with Python, Django, Reac
 
 # 📫 Connect With Me
 
-📧 **Email:**  
+📧 **Email**
+
 **jatindev214@gmail.com**
 
-💼 **LinkedIn:**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/jatindev2
 
-🧠 **LeetCode:**  
+🧠 **LeetCode**
+
 https://leetcode.com/u/logical_jatt/
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### 💙 Thanks for visiting my profile!
 
-*"Code • Learn • Build • Improve • Repeat"* 🚀
+**Code • Learn • Build • Improve • Repeat 🚀**
 
 </div>
