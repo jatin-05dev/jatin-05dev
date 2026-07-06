@@ -1,31 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jatin</h1>
+<div align="center">
 
-<h3 align="center">
-💻 Full Stack Developer | Python • Django • Java • React.js
-</h3>
+# 👋 Jatin
 
-<p align="center">
-Passionate about building modern web applications, solving programming problems, and continuously learning new technologies.
-</p>
+### Full Stack Web Developer
 
----
+Building modern, responsive, and scalable web applications with Python, Django, React, and JavaScript.
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React;Backend+Development+Enthusiast;Always+Learning+Something+New+🚀" />
 
-- 🔭 Currently working on Full Stack Development
-- 🌱 Learning React.js & Django REST Framework
-- 💡 Strong interest in Backend Development
-- 📚 Practicing Data Structures & Algorithms
-- ⚡ I enjoy building real-world projects and improving my coding skills.
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,mysql"/>
 </p>
 
 ### Frameworks & Libraries
@@ -42,7 +34,7 @@ Passionate about building modern web applications, solving programming problems,
 
 ---
 
-## 📂 Projects
+# 💼 Projects
 
 - 🎬 Netflix Clone
 - 👨‍💼 Employee Management System
@@ -50,33 +42,45 @@ Passionate about building modern web applications, solving programming problems,
 - ✅ To-Do List
 - 🐍 Snake Game
 - ❌ Tic Tac Toe
-- 💻 JavaScript Mini Projects
-- 🌐 Responsive Websites using HTML & CSS
+- ⚡ JavaScript Mini Projects
+- 🎨 Responsive Landing Pages
 
 ---
 
-## 🌱 Currently Learning
+# 📖 Currently Learning
 
 - React.js
 - Django REST Framework
 - Data Structures & Algorithms
-- API Development
+- REST APIs
 - Deployment
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-📧 **Email:** **jatindev214@gmail.com**
+<p>
 
-💼 **LinkedIn:** https://www.linkedin.com/in/jatindev2
+<a href="mailto:jatindev214@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-🧠 **LeetCode:** https://leetcode.com/u/logical_jatt/
+<a href="https://www.linkedin.com/in/jatindev2">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/logical_jatt/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💻 "Code • Learn • Build • Repeat"
+
+⭐ Thanks for visiting my profile!
 
 </div>
